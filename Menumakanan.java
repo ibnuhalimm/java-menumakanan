@@ -1,3 +1,10 @@
+/*
+ * 
+ * @author Ibnu Halim Mustofa
+ * This source code is Under MIT License
+ * 
+ */
+
 import java.util.Scanner;
 
 public class Menumakanan {

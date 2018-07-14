@@ -55,8 +55,8 @@ public class Menumakanan {
 				System.out.println();
 				
 			default:
-				namamakanan[i] = "-";
-				System.out.println("\n---- Menu tidak ada ----");
+				menu = 0;
+				System.out.println("\n**** Menu tidak ada, keluar ****");
 				System.out.println();
 				break;
 			}
